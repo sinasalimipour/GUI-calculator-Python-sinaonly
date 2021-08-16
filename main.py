@@ -97,6 +97,5 @@ button_multiply = Button(root, text="*", padx=40, pady=20, command=button_multip
 button_divide = Button(root, text="/", padx=41, pady=20, command=button_divide).grid(row=6, column=2)
 # Define Buttons operator
 
-
 root.mainloop()
 
